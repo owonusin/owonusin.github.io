@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://owonusin.github.io/sitemap.html.gz
+Sitemap: https://owonusin.github.io/app/sitemap.html.gz
+Sitemap: https://owonusin.github.io/assets/sitemap.html.gz
+Sitemap: https://owonusin.github.io/css/sitemap.html.gz
+Sitemap: https://owonusin.github.io/includes/sitemap.html.gz
+Sitemap: https://owonusin.github.io/item/sitemap.html.gz
+Sitemap: https://owonusin.github.io/src/sitemap.html.gz
